@@ -4,3 +4,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/103cuong/go_grpc_postgres_kit)](https://goreportcard.com/report/github.com/103cuong/go_grpc_postgres_kit)
 
 a lightweight kit for go 💅 grpc
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Stay curious. Keep learning. Keep growing.
+🧑‍💻
+<!-- INSPIRATIONAL_QUOTE_END -->
