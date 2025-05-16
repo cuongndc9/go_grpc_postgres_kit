@@ -6,6 +6,6 @@
 a lightweight kit for go 💅 grpc
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Be a lifelong learner, not a know-it-all.
-🦖
+Stay curious. Keep learning. Keep growing.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
