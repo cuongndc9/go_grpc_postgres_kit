@@ -5,7 +5,4 @@
 
 a lightweight kit for go 💅 grpc
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🦖
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nDiscomfort is the currency of your dreams.\n🦄\n<!-- INSPIRATIONAL_QUOTE_END -->
