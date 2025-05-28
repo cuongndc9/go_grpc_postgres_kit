@@ -8,5 +8,5 @@ a lightweight kit for go 💅 grpc
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🐶
+🧑‍💻,
 <!-- INSPIRATIONAL_QUOTE_END -->
