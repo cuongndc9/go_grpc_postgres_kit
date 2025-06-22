@@ -7,5 +7,5 @@ a lightweight kit for go 💅 grpc
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
+> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
